@@ -1,0 +1,8 @@
+C:\Users\Alaa Shaker\Desktop\AD_Planner\AD_Planner\bin\Debug\AD_Planner.exe
+C:\Users\Alaa Shaker\Desktop\AD_Planner\AD_Planner\bin\Debug\AD_Planner.pdb
+C:\Users\Alaa Shaker\Desktop\AD_Planner\AD_Planner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alaa Shaker\Desktop\AD_Planner\AD_Planner\obj\Debug\AD_Planner.MainForm.resources
+C:\Users\Alaa Shaker\Desktop\AD_Planner\AD_Planner\obj\Debug\AD_Planner.Properties.Resources.resources
+C:\Users\Alaa Shaker\Desktop\AD_Planner\AD_Planner\obj\Debug\AD_Planner.csproj.GenerateResource.Cache
+C:\Users\Alaa Shaker\Desktop\AD_Planner\AD_Planner\obj\Debug\AD_Planner.exe
+C:\Users\Alaa Shaker\Desktop\AD_Planner\AD_Planner\obj\Debug\AD_Planner.pdb
